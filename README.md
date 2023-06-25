@@ -1,2 +1,3 @@
 # FO-Delivery-App
-A sambple food delivery webpage.
+A sample food delivery webpage.
+<h3>Created by Faizalmsdev</h3>
